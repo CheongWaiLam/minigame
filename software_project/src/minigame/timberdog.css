@@ -1,0 +1,6 @@
+.root {
+  -fx-background-image: url('/minigame/media/background.jpg');
+  -fx-background-size: 900 800;
+  -fx-background-position: center center;
+}
+

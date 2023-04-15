@@ -1,0 +1,37 @@
+.root {
+  -fx-background-image: url('/minigame/media/animals_party.png');
+  -fx-background-position: top center; 
+  -fx-background-repeat: stretch;
+  -fx-background-size: 450.0 300.0;
+  -fx-background-color: azure;
+}
+
+
+.TimberDog {
+  -fx-text-fill: lightpink;
+  -fx-font-size: 25.0pt;
+  -fx-font-family: "Arial";
+  -fx-font-weight: bolder;  
+}
+
+.Pinball {
+  -fx-text-fill: mediumpurple;
+  -fx-font-size: 25.0pt;
+  -fx-font-family: "Arial";
+  -fx-font-weight: bolder;  
+}
+
+.credit {
+  -fx-text-fill: slateblue;
+  -fx-font-size: 15.0pt;
+  -fx-font-family: "Arial";
+  -fx-font-weight: bolder;  
+}
+
+.name {
+  -fx-text-fill: slateblue;
+  -fx-font-size: 30.0pt;
+  -fx-font-family: "Arial";
+  -fx-font-weight: bolder;
+}
+
