@@ -24,8 +24,8 @@ Reason of choose Agile process
 Usage of our software: **entertainment**
 
 ## Software development plan
-- Development process
-Game mechanics >  Character design(chameleon and dog)  > Games rule >User Interface (UI) > Game code > Game testing and modification > Credit
+- ### Development process
+  Game mechanics >  Character design(chameleon and dog)  > Games rule >User Interface (UI) > Game code > Game testing and modification > Credit
 We start by planning the main goals of the game, game mechanics, game style and technical requirements. 
   1. Main goals
   2. Game mechanics
@@ -34,14 +34,14 @@ We start by planning the main goals of the game, game mechanics, game style and 
   5. Game rules
   6. Game testing and modification
 
-- Member
+- ### Member
 Four members conduct game production, game design and game testing. Here are the member’s roles, responsibilities and portion.
   1. **Tommy**: Game artist, who working to turn sketches into the pixel style image such as animals character, objects in the game, game background, and the game logo. Also, creating the scene and different viewport.
   2. **Sam**: Game tester, who testing on a game by playing it multiple times to ensure it is player-friendly and runs smoothly. Then he report any bugs to the team and offer feedback to game programmer to make the instructions clearer and overall game experience more enjoyable.
   3. **Leon**: Pinball-chameleon game programmer, who creating Pinball-chameleon game rules, goals and challenges, developing gaming software, incorporating artwork into the game and configuring how players will access and interact with the game.
   4. **Kiki**: Timber-dog game programmer, who creating timber-dog game rules, goals and challenges, developing gaming software, incorporating artwork into the game and configuring how players will access and interact with the game.
 
-- Schedule
+- ### Schedule
 We have planned a month schedule to develop this software. 
 In the first week, we are going to figure it out what fuctions in this software. We want two games in this software, then we want a home page to let the player choose these two games, finally we want a credit page to show our produce list. 
 In the second week, we are going to design our game style. Our game style we want to use pxiel style to design it, then one member to design our characters, blackgrounds, buttons, labels, credit page and home page. Also, the other two members need to develop two games(Timber-dog, Pinball-chameleon) separately. When they are developing two games, they design to work in Javafx.  
@@ -54,26 +54,26 @@ In the evaluation, here are some questions to evaluate.
   4. How many bugs in your software? 
   5. How many times will a test member usually test a feature in our software? 
 
-- Algorithm
+- ### Algorithm
 
-- Current statis of our software
+- ### Current statis of our software
 Completed the expected user interface (UI), homepage, credit page and two minigames(Timber-dog, Pinball-chameleon).
-- Future plan
+- ### Future plan
 Our future plan is we will create a table of ranking which can record the scores of all players and then make a competition in these two minigames. Then we will add two more minigames such as flappy bird and Pac-man. 
 
 ## Demo
 
 ## Environment of the software development and running
-- Programming language: Javafx 
-- Software Requirnment:  
+- ### Programming language: Javafx 
+- ###Software Requirnment:  
   1. Language – Javafx  
   2. IDE – Eclipse 
   3. OS – Windows 10
-- Hardware Requirnment 
+- ### Hardware Requirnment 
   1. Processor – Intel(R) Core i3-5015U  
   2. CPU RAM – 4 GB  
   3. Hard disk – 1 TB 
-- Require package  (using our class to separate it) 
+- ### Require package  (using our class to separate it) 
   1. Main 
  javafx.application.Application; 
  javafx.scene.Scene; 
