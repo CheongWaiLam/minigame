@@ -27,19 +27,19 @@ Usage of our software: **entertainment**
 - Development process
 Game mechanics >  Character design(chameleon and dog)  > Games rule >User Interface (UI) > Game code > Game testing and modification > Credit
 We start by planning the main goals of the game, game mechanics, game style and technical requirements. 
-1. Main goals
-2. Game mechanics
-3. Game style
-4. Character design and game scenarios
-5. Game rules
-6. Game testing and modification
+  1. Main goals
+  2. Game mechanics
+  3. Game style
+  4. Character design and game scenarios
+  5. Game rules
+  6. Game testing and modification
 
 - Member
 Four members conduct game production, game design and game testing. Here are the member’s roles, responsibilities and portion.
-1. Tommy: Game artist, who working to turn sketches into the pixel style image such as animals character, objects in the game, game background, and the game logo. Also, creating the scene and different viewport.
-2. Sam: Game tester, who testing on a game by playing it multiple times to ensure it is player-friendly and runs smoothly. Then he report any bugs to the team and offer feedback to game programmer to make the instructions clearer and overall game experience more enjoyable.
-3. Leon: Pinball-chameleon game programmer, who creating Pinball-chameleon game rules, goals and challenges, developing gaming software, incorporating artwork into the game and configuring how players will access and interact with the game.
-4. Kiki: Timber-dog game programmer, who creating timber-dog game rules, goals and challenges, developing gaming software, incorporating artwork into the game and configuring how players will access and interact with the game.
+  1. Tommy: Game artist, who working to turn sketches into the pixel style image such as animals character, objects in the game, game background, and the game logo. Also, creating the scene and different viewport.
+  2. Sam: Game tester, who testing on a game by playing it multiple times to ensure it is player-friendly and runs smoothly. Then he report any bugs to the team and offer feedback to game programmer to make the instructions clearer and overall game experience more enjoyable.
+  3. Leon: Pinball-chameleon game programmer, who creating Pinball-chameleon game rules, goals and challenges, developing gaming software, incorporating artwork into the game and configuring how players will access and interact with the game.
+  4. Kiki: Timber-dog game programmer, who creating timber-dog game rules, goals and challenges, developing gaming software, incorporating artwork into the game and configuring how players will access and interact with the game.
 
 - Schedule
 We have planned a month schedule to develop this software. 
@@ -48,11 +48,11 @@ In the second week, we are going to design our game style. Our game style we wan
 In the third week, we have the last member is going to test our software. If there are errors in the above tests, member will  tell the go back to design and develop it. 
 In the last week, we are going to do a evaluation, write our README.md and record our demo. 
 In the evaluation, here are some questions to evaluate.  
-1. How long are the meetings? 
-2. How many issues are discussed during the meetings? 
-3. How often is build made for testing? 
-4. How many bugs in your software? 
-5. How many times will a test member usually test a feature in our software? 
+  1. How long are the meetings? 
+  2. How many issues are discussed during the meetings? 
+  3. How often is build made for testing? 
+  4. How many bugs in your software? 
+  5. How many times will a test member usually test a feature in our software? 
 
 - Algorithm
 
