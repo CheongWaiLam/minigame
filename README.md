@@ -75,50 +75,50 @@ Our future plan is we will create a table of ranking which can record the scores
   3. Hard disk – 1 TB 
 - ### Require package  (using our class to separate it) 
   1. Main 
- javafx.application.Application; 
- javafx.scene.Scene; 
- javafx.scene.image.Image; 
- javafx.scene.image.ImageView; 
- javafx.scene.paint.Color; 
- javafx.scene.text.Font; 
- javafx.scene.text.Text; 
- javafx.scene.control.Button; 
- javafx.scene.control.Control; 
- javafx.scene.control.Label; 
- javafx.scene.Group; 
- javafx.stage.Stage; 
+   - javafx.application.Application; 
+   - javafx.scene.Scene; 
+   - javafx.scene.image.Image; 
+   - javafx.scene.image.ImageView; 
+   - javafx.scene.paint.Color; 
+   - javafx.scene.text.Font; 
+   - javafx.scene.text.Text; 
+   - javafx.scene.control.Button; 
+   - javafx.scene.control.Control; 
+   - javafx.scene.control.Label; 
+   - javafx.scene.Group; 
+   - javafx.stage.Stage;
   2. Timberdog 
-java.util.ArrayList; 
-java.util.Random; 
-javafx.scene.Parent; 
-javafx.scene.control.Button; 
-javafx.scene.image.Image; 
-javafx.scene.image.ImageView;
-javafx.scene.input.KeyCode; 
-javafx.scene.layout.Pane; 
-javafx.scene.text.Text; 
+   - java.util.ArrayList; 
+   - java.util.Random; 
+   - javafx.scene.Parent; 
+   - javafx.scene.control.Button; 
+   - javafx.scene.image.Image; 
+   - javafx.scene.image.ImageView;
+   - javafx.scene.input.KeyCode; 
+   - javafx.scene.layout.Pane; 
+  - javafx.scene.text.Text; 
   3. Pin_ball 
-java.util.ArrayList; 
-javax.swing.JOptionPane; 
-javafx.scene.Parent; 
-javafx.scene.control.Button; 
-javafx.scene.image.Image; 
-javafx.scene.image.ImageView; 
-javafx.scene.input.KeyCode; 
-javafx.scene.layout.Pane; 
-javafx.scene.text.Text; 
+   - java.util.ArrayList; 
+   - javax.swing.JOptionPane; 
+   - javafx.scene.Parent; 
+   - javafx.scene.control.Button; 
+   - javafx.scene.image.Image; 
+   - javafx.scene.image.ImageView; 
+   - javafx.scene.input.KeyCode; 
+   - javafx.scene.layout.Pane; 
+   - javafx.scene.text.Text; 
   4. BallPane 
-javafx.animation.KeyFrame; 
-javafx.animation.Timeline; 
-javafx.scene.layout.Pane; 
-javafx.scene.paint.Color; 
-javafx.scene.shape.Circle; 
-javafx.util.Duration; 
+   - javafx.animation.KeyFrame; 
+   - javafx.animation.Timeline; 
+   - javafx.scene.layout.Pane; 
+   - javafx.scene.paint.Color; 
+   - javafx.scene.shape.Circle; 
+   - javafx.util.Duration; 
   5. Credit 
-javafx.geometry.Pos; 
-javafx.scene.Parent; 
-javafx.scene.control.Button; 
-javafx.scene.control.Label; 
-javafx.scene.layout.Pane; 
+   - javafx.geometry.Pos; 
+   - javafx.scene.Parent; 
+   - javafx.scene.control.Button; 
+   - javafx.scene.control.Label; 
+   - javafx.scene.layout.Pane; 
 
 ## Declartion
