@@ -36,10 +36,10 @@ We start by planning the main goals of the game, game mechanics, game style and 
 
 - Member
 Four members conduct game production, game design and game testing. Here are the member’s roles, responsibilities and portion.
-  1. Tommy: Game artist, who working to turn sketches into the pixel style image such as animals character, objects in the game, game background, and the game logo. Also, creating the scene and different viewport.
-  2. Sam: Game tester, who testing on a game by playing it multiple times to ensure it is player-friendly and runs smoothly. Then he report any bugs to the team and offer feedback to game programmer to make the instructions clearer and overall game experience more enjoyable.
-  3. Leon: Pinball-chameleon game programmer, who creating Pinball-chameleon game rules, goals and challenges, developing gaming software, incorporating artwork into the game and configuring how players will access and interact with the game.
-  4. Kiki: Timber-dog game programmer, who creating timber-dog game rules, goals and challenges, developing gaming software, incorporating artwork into the game and configuring how players will access and interact with the game.
+  1. **Tommy**: Game artist, who working to turn sketches into the pixel style image such as animals character, objects in the game, game background, and the game logo. Also, creating the scene and different viewport.
+  2. **Sam**: Game tester, who testing on a game by playing it multiple times to ensure it is player-friendly and runs smoothly. Then he report any bugs to the team and offer feedback to game programmer to make the instructions clearer and overall game experience more enjoyable.
+  3. **Leon**: Pinball-chameleon game programmer, who creating Pinball-chameleon game rules, goals and challenges, developing gaming software, incorporating artwork into the game and configuring how players will access and interact with the game.
+  4. **Kiki**: Timber-dog game programmer, who creating timber-dog game rules, goals and challenges, developing gaming software, incorporating artwork into the game and configuring how players will access and interact with the game.
 
 - Schedule
 We have planned a month schedule to develop this software. 
@@ -121,4 +121,4 @@ javafx.scene.control.Button;
 javafx.scene.control.Label; 
 javafx.scene.layout.Pane; 
 
-## D
+## Declartion
