@@ -81,6 +81,7 @@ Usage of our software: **entertainment**
   5. How many times will a test member usually test a feature in our software? 
 
 - ### Algorithm
+In timber-dog, we use the randomized algorithm. The position where the board appears is random. Therefore, by the randomized algorithm, the boards can be generated randomly on the left or right side.  
 
 - ### Current statis of our software
 Completed the expected user interface (UI), homepage, credit page and two minigames(Timber-dog, Pinball-chameleon).
