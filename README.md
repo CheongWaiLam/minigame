@@ -1,13 +1,13 @@
 # minigame
 ## Graphical Abstract 
 1. User Interface(UI)
-![](https://raw.githubusercontent.com/Poole0/minigame/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-04-16%20043941.png?token=GHSAT0AAAAAACBORI7S2KI2YUTQAY63DA5AZB3CCJA)
+![](https://raw.githubusercontent.com/Poole0/minigame/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-04-16%20043941.png?token=GHSAT0AAAAAACBORI7T4SLYLWDV2R4E7RX4ZB3JW5A)
 
 2. Timber-dog game page
-![](https://raw.githubusercontent.com/Poole0/minigame/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-04-16%20044006.png?token=GHSAT0AAAAAACBORI7SZN6UIIUSIE3Q6ZPQZB3CDGQ)
+![](https://raw.githubusercontent.com/Poole0/minigame/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-04-16%20044006.png?token=GHSAT0AAAAAACBORI7S5P7DMFIQRHHOFZKQZB3JWPQ)
 
 3. Pinball-chameleon game page
-![](https://raw.githubusercontent.com/Poole0/minigame/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-04-16%20044027.png?token=GHSAT0AAAAAACBORI7TLUT5NEZGKYDJSTUWZB3CDXA)
+![](https://raw.githubusercontent.com/Poole0/minigame/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-04-16%20044027.png?token=GHSAT0AAAAAACBORI7SM3OXYEAWW5BWMUOSZB3JV5Q)
 
 4. Credit page
 ![](https://github.com/Poole0/minigame/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-04-16%20043952.png)
@@ -65,60 +65,64 @@ Our future plan is we will create a table of ranking which can record the scores
 
 ## Environment of the software development and running
 - ### Programming language: Javafx 
-- ###Software Requirnment:  
-  1. Language – Javafx  
-  2. IDE – Eclipse 
-  3. OS – Windows 10
+- ### Software Requirnment:  
+ 1. Language – Javafx  
+ 2. IDE – Eclipse 
+ 3. OS – Windows 10
 - ### Hardware Requirnment 
-  1. Processor – Intel(R) Core i3-5015U  
-  2. CPU RAM – 4 GB  
-  3. Hard disk – 1 TB 
-- ### Require package  (using our class to separate it) 
-  1. Main 
-   - javafx.application.Application; 
-   - javafx.scene.Scene; 
-   - javafx.scene.image.Image; 
-   - javafx.scene.image.ImageView; 
-   - javafx.scene.paint.Color; 
-   - javafx.scene.text.Font; 
-   - javafx.scene.text.Text; 
-   - javafx.scene.control.Button; 
-   - javafx.scene.control.Control; 
-   - javafx.scene.control.Label; 
-   - javafx.scene.Group; 
-   - javafx.stage.Stage;
-  2. Timberdog 
-   - java.util.ArrayList; 
-   - java.util.Random; 
-   - javafx.scene.Parent; 
-   - javafx.scene.control.Button; 
-   - javafx.scene.image.Image; 
-   - javafx.scene.image.ImageView;
-   - javafx.scene.input.KeyCode; 
-   - javafx.scene.layout.Pane; 
-  - javafx.scene.text.Text; 
-  3. Pin_ball 
-   - java.util.ArrayList; 
-   - javax.swing.JOptionPane; 
-   - javafx.scene.Parent; 
-   - javafx.scene.control.Button; 
-   - javafx.scene.image.Image; 
-   - javafx.scene.image.ImageView; 
-   - javafx.scene.input.KeyCode; 
-   - javafx.scene.layout.Pane; 
-   - javafx.scene.text.Text; 
-  4. BallPane 
-   - javafx.animation.KeyFrame; 
-   - javafx.animation.Timeline; 
-   - javafx.scene.layout.Pane; 
-   - javafx.scene.paint.Color; 
-   - javafx.scene.shape.Circle; 
-   - javafx.util.Duration; 
-  5. Credit 
-   - javafx.geometry.Pos; 
-   - javafx.scene.Parent; 
-   - javafx.scene.control.Button; 
-   - javafx.scene.control.Label; 
-   - javafx.scene.layout.Pane; 
+ 1. Processor – Intel(R) Core i3-5015U  
+ 2. CPU RAM – 4 GB  
+ 3. Hard disk – 1 TB 
+- ### Require package  (List by class) 
+ 1. Main 
+    - javafx.application.Application; 
+    - javafx.scene.Scene; 
+    - javafx.scene.image.Image; 
+    - javafx.scene.image.ImageView; 
+    - javafx.scene.paint.Color; 
+    - javafx.scene.text.Font; 
+    - javafx.scene.text.Text; 
+    - javafx.scene.control.Button; 
+    - javafx.scene.control.Control; 
+    - javafx.scene.control.Label; 
+    - javafx.scene.Group; 
+    - javafx.stage.Stage;
+   
+ 2. Timberdog 
+    - java.util.ArrayList; 
+    - java.util.Random; 
+    - javafx.scene.Parent; 
+    - javafx.scene.control.Button; 
+    - javafx.scene.image.Image; 
+    - javafx.scene.image.ImageView;
+    - javafx.scene.input.KeyCode; 
+    - javafx.scene.layout.Pane; 
+    - javafx.scene.text.Text;
+  
+ 3. Pin_ball 
+    - java.util.ArrayList; 
+    - javax.swing.JOptionPane; 
+    - javafx.scene.Parent; 
+    - javafx.scene.control.Button; 
+    - javafx.scene.image.Image; 
+    - javafx.scene.image.ImageView; 
+    - javafx.scene.input.KeyCode; 
+    - javafx.scene.layout.Pane; 
+    - javafx.scene.text.Text; 
+   
+ 4. BallPane 
+    - javafx.animation.KeyFrame; 
+    - javafx.animation.Timeline; 
+    - javafx.scene.layout.Pane; 
+    - javafx.scene.paint.Color; 
+    - javafx.scene.shape.Circle; 
+    - javafx.util.Duration; 
+   
+ 5. Credit 
+    - javafx.geometry.Pos; 
+    - javafx.scene.Parent; 
+    - javafx.scene.control.Button; 
+    - javafx.scene.control.Label; 
+    - javafx.scene.layout.Pane; 
 
 ## Declartion
