@@ -25,7 +25,7 @@ Usage of our software: **entertainment**
 
 ## Software development plan
 - ### Development process
-  Game mechanics >  Character design(chameleon and dog)  > Games rule >User Interface (UI) > Game code > Game testing and modification > Credit 
+   Main goals of the game  > Game mechanics > Game style and technical requirements > Character design(chameleon and dog) and Game scenarios  > User Interface (UI) > Game code  > Credit > Game testing and modification  
   
   
   We start by planning the main goals of the game, game mechanics, game style and technical requirements. 
@@ -37,40 +37,45 @@ Usage of our software: **entertainment**
 
   2. **Game mechanics**
   
-     Timber-dog game: In the game, the wooden sticks will continue to fall towards the player, and you need to keep avoiding the wooden sticks, The player with the highest score wins. 
+     Timber-dog game: Player takes control of the dog, stands in front of the bone and starts hitting it from the left(press A), then from the right(press D). Player has to watch out for overhanging wooden bars. As soon as player sees one on one side of the bone, player must quickly move to the other. If player don't, player will lose - the dog will be crushed and player will have to start over. 
 
-     Pinball-chameleon game: In the game, the ball will continue to fall, and the player needs to keep holding the ball. The player with the highest score wins. 
+     Pinball-chameleon game: Player need to use the keys A and D on the keyboard to move left and right, and catch the balls falling from above. If player does not catch the ball the game will end. 
      
   3. **Game style**
   
-     Pixel, two basic games, just clear the game. 
+     Casual game, pixel, two classic games, just clear the game. 
      
   4. **Technical requirements**
 
-     We want two games in this software, then we want a home page to let the player use two buttons to choose these two games, finally we want a credit button in the homepage credit page to show our produce list.
+     We want two games in this software, then we want player can freely choose the game they want to play so we want to create a home page to let the player press two buttons to choose these two games. Also player can go back to the home page and choose another game to play until the player quits. Finally, we want a credit button in the homepage and the credit page to show our creators list.
 
   5. **Character design**
 
      We use pixel style for character design, so that the whole process will not be too complicated, and the characters can be presented simply, making the whole game more casual.  
      
-     The dog and chameleon below the picture are the characters we will see in the game, and goback button is the return button we can see in the game, which can return to the main screen. 
+    The dog and chameleon below the picture are the characters we will see in the game, goback button is the return button we can see in the game, which can return to the home page and the credit button is the return button which can return to home page or credit page. 
      
   6. **Game scenarios**
   
      For the game scene, we used simple colors, alternating warm and cool colors, and we used pink and purple to make the scene more comfortable. 
      
+     ![Credit](https://raw.githubusercontent.com/Poole0/minigame/main/credit.PNG)
      ![Go back](https://raw.githubusercontent.com/Poole0/minigame/main/monkey.png) 
      ![Dog](https://raw.githubusercontent.com/Poole0/minigame/main/dog.png) 
      ![Chameleon](https://raw.githubusercontent.com/Poole0/minigame/main/chameleon.png)
      
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Go back** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Dog** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Chameleon**
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Credit**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Go back** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Dog** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Chameleon**
      
-     
-     We use Javafx language to make these games and have tested and modified many times to ensure the stability and fluency of game. 
+ 7. **User Interface (UI), Game code, Credit** 
+     User Interface (UI): In the UI, we use three button, one background and three labels to show with the player. 
+ 
+     Game code: We use Javafx language to make these games and have tested and modified many times to ensure the stability and fluency of game. 
+ 
+     Credit: In the Credit page, we use one button, one background and two labels to show pur creators list. 
  
      In order to ensure that all aspects of the game can work properly, we constantly test the gameplay, balance, stability and security of the game. 
      
-  7. **Game testing and modification**
+  8. **Game testing and modification**
   
      We are following three page to test. 
      
@@ -90,15 +95,15 @@ Usage of our software: **entertainment**
 - ### Schedule
   We have planned a month schedule to develop this software.
   
-  In the first week, we are going to figure it out what fuctions in this software. We want two games in this software, then we want a home page to let the player choose these two games, finally we want a credit page to show our produce list. 
+  In the first week, we are going to figure it out what functions in this software. We want two games in this software, then we want a home page to let the player choose these two games, finally we want a credit page to show our creators list.  
   
-  In the second week, we are going to design our game style. Our game style we want to use pxiel style to design it, then one member to design our characters, blackgrounds, buttons, labels, credit page and home page. Also, the other two members need to develop two games(Timber-dog, Pinball-chameleon) separately. When they are developing two games, they design to work in Javafx.  
+  In the second week, we are going to design our game style. Our game style we want to use pixel style to design it, then one member to design our characters, backgrounds, buttons, labels, credit page and home page. Also, the other two members need to develop two games(Timber-dog, Pinball-chameleon) separately. When they are developing two games, they design to work in Javafx.    
   
   In the third week, we have the last member is going to test our software. If there are errors in the above tests, member will  tell the go back to design and develop it. 
   
-  In the last week, we are going to do a evaluation, write our README.md and record our demo. 
+  In the last week, we are going to do an evaluation, write our README.md and record our demo. 
   
-  In the evaluation, here are some questions to evaluate.  
+  In the evaluation, here are some questions to evaluate.   
   1. How long are the meetings? 
   2. How many issues are discussed during the meetings? 
   3. How often is build made for testing? 
