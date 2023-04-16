@@ -1,16 +1,16 @@
 # minigame
 ## Graphical Abstract 
 1. User Interface(UI)
-![](https://raw.githubusercontent.com/Poole0/minigame/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-04-16%20043941.png?token=GHSAT0AAAAAACBORI7T4SLYLWDV2R4E7RX4ZB3JW5A)
+![](https://raw.githubusercontent.com/Poole0/minigame/main/home.png?token=GHSAT0AAAAAACBORI7T263FSMT23L3I3Q4IZB3KGLQ)
 
 2. Timber-dog game page
-![](https://raw.githubusercontent.com/Poole0/minigame/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-04-16%20044006.png?token=GHSAT0AAAAAACBORI7S5P7DMFIQRHHOFZKQZB3JWPQ)
+![](https://raw.githubusercontent.com/Poole0/minigame/main/timberdog.png?token=GHSAT0AAAAAACBORI7TB2LXOEQSMXHNHDM2ZB3KGWQ)
 
 3. Pinball-chameleon game page
-![](https://raw.githubusercontent.com/Poole0/minigame/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-04-16%20044027.png?token=GHSAT0AAAAAACBORI7SM3OXYEAWW5BWMUOSZB3JV5Q)
+![](https://github.com/Poole0/minigame/blob/main/pinball.png)
 
 4. Credit page
-![](https://github.com/Poole0/minigame/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-04-16%20043952.png)
+![](https://raw.githubusercontent.com/Poole0/minigame/main/credit.png?token=GHSAT0AAAAAACBORI7S3ZMUHD6QOZAO3Q2YZB3KHLQ)
 
 ## Purpose
 Software development process applied: **Ａgile process.**
