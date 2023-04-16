@@ -25,41 +25,68 @@ Usage of our software: **entertainment**
 
 ## Software development plan
 - ### Development process
-  Game mechanics >  Character design(chameleon and dog)  > Games rule >User Interface (UI) > Game code > Game testing and modification > Credit
-We start by planning the main goals of the game, game mechanics, game style and technical requirements. 
-  1. Main goals
-  2. Game mechanics
-  3. Game style
-  4. Character design and game scenarios
-  5. Game rules
-  6. Game testing and modification
+  Game mechanics >  Character design(chameleon and dog)  > Games rule >User Interface (UI) > Game code > Game testing and modification > Credit 
+  
+  
+  We start by planning the main goals of the game, game mechanics, game style and technical requirements. 
+  1. **Main goals**
+  
+     Timber-dog game: Controlling the dog eats the big bone and watch out for overhanging wooden bars. 
+
+     Pinball-chameleon game: Controlling the chameleon to catch the balls falling from aboded. 
+
+  2. **Game mechanics**
+  
+     Timber-dog game: In the game, the wooden sticks will continue to fall towards the player, and you need to keep avoiding the wooden sticks, The player with the highest score wins. 
+
+     Pinball-chameleon game: In the game, the ball will continue to fall, and the player needs to keep holding the ball. The player with the highest score wins. 
+     
+  3. **Game style**
+  
+  4. **Character design and game scenarios**
+
+  5. **Testing and modification**
+  
+     We are following three page to test. 
+     
+     In the homepage, we need to test the pixel images which can make a suitable size to put on the buttons and labels. Then we need to test all the buttons can work normally. When the player presses it, can he switch to other pages or not. 
+
+     In the game pages, we test our games, is it incorrect, undesirable or does not conform to its specification. 
+
+     In the credit page, we need to test the labels, are they in the correct position or not.   
 
 - ### Member
-Four members conduct game production, game design and game testing. Here are the member’s roles, responsibilities and portion.
+   Four members conduct game production, game design and game testing. Here are the member’s roles, responsibilities and portion.
   1. **Tommy**: Game artist, who working to turn sketches into the pixel style image such as animals character, objects in the game, game background, and the game logo. Also, creating the scene and different viewport.
   2. **Sam**: Game tester, who testing on a game by playing it multiple times to ensure it is player-friendly and runs smoothly. Then he report any bugs to the team and offer feedback to game programmer to make the instructions clearer and overall game experience more enjoyable.
   3. **Leon**: Pinball-chameleon game programmer, who creating Pinball-chameleon game rules, goals and challenges, developing gaming software, incorporating artwork into the game and configuring how players will access and interact with the game.
   4. **Kiki**: Timber-dog game programmer, who creating timber-dog game rules, goals and challenges, developing gaming software, incorporating artwork into the game and configuring how players will access and interact with the game.
 
 - ### Schedule
-We have planned a month schedule to develop this software. 
-In the first week, we are going to figure it out what fuctions in this software. We want two games in this software, then we want a home page to let the player choose these two games, finally we want a credit page to show our produce list. 
-In the second week, we are going to design our game style. Our game style we want to use pxiel style to design it, then one member to design our characters, blackgrounds, buttons, labels, credit page and home page. Also, the other two members need to develop two games(Timber-dog, Pinball-chameleon) separately. When they are developing two games, they design to work in Javafx.  
-In the third week, we have the last member is going to test our software. If there are errors in the above tests, member will  tell the go back to design and develop it. 
-In the last week, we are going to do a evaluation, write our README.md and record our demo. 
-In the evaluation, here are some questions to evaluate.  
+  We have planned a month schedule to develop this software.
+  
+  In the first week, we are going to figure it out what fuctions in this software. We want two games in this software, then we want a home page to let the player choose these two games, finally we want a credit page to show our produce list. 
+  
+  In the second week, we are going to design our game style. Our game style we want to use pxiel style to design it, then one member to design our characters, blackgrounds, buttons, labels, credit page and home page. Also, the other two members need to develop two games(Timber-dog, Pinball-chameleon) separately. When they are developing two games, they design to work in Javafx.  
+  
+  In the third week, we have the last member is going to test our software. If there are errors in the above tests, member will  tell the go back to design and develop it. 
+  
+  In the last week, we are going to do a evaluation, write our README.md and record our demo. 
+  
+  In the evaluation, here are some questions to evaluate.  
   1. How long are the meetings? 
   2. How many issues are discussed during the meetings? 
   3. How often is build made for testing? 
-  4. How many bugs in your software? 
+  4. How many bugs in our software? 
   5. How many times will a test member usually test a feature in our software? 
 
 - ### Algorithm
 
 - ### Current statis of our software
 Completed the expected user interface (UI), homepage, credit page and two minigames(Timber-dog, Pinball-chameleon).
+
 - ### Future plan
-Our future plan is we will create a table of ranking which can record the scores of all players and then make a competition in these two minigames. Then we will add two more minigames such as flappy bird and Pac-man. 
+Our future plan is we want to create a table of ranking which can record the scores of all players and then make a competition in these two minigames. Then we will add two more minigames such as flappy bird and Pac-man. 
 
 ## Demo
 
