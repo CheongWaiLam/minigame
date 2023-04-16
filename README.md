@@ -89,6 +89,7 @@ Completed the expected user interface (UI), homepage, credit page and two miniga
 Our future plan is we want to create a table of ranking which can record the scores of all players and then make a competition in these two minigames. Then we will add two more minigames such as flappy bird and Pac-man. 
 
 ## Demo
+https://youtu.be/8R8uHFOMgDY
 
 ## Environment of the software development and running
 - ### Programming language: Javafx 
