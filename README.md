@@ -43,9 +43,27 @@ Usage of our software: **entertainment**
      
   3. **Game style**
   
-  4. **Character design and game scenarios**
+     Pixel, two basic games, just clear the game. 
+     
+  4. **Technical requirements**
 
-  5. **Testing and modification**
+     We want two games in this software, then we want a home page to let the player use two buttons to choose these two games, finally we want a credit button in the homepage credit page to show our produce list.
+
+  5. **Character design and game scenarios**
+
+     We use pixel style for character design, so that the whole process will not be too complicated, and the characters can be presented simply, making the whole game more casual.  
+     
+     The dog and chameleon below the picture are the characters we will see in the game, and goback button is the return button we can see in the game, which can return to the main screen. 
+     
+  6. **Game scenarios**
+  
+     For the game scene, we used simple colors, alternating warm and cool colors, and we used pink and purple to make the scene more comfortable. 
+     
+     We use Javafx language to make these games and have tested and modified many times to ensure the stability and fluency of game. 
+ 
+     In order to ensure that all aspects of the game can work properly, we constantly test the gameplay, balance, stability and security of the game. 
+     
+  7. **Game testing and modification**
   
      We are following three page to test. 
      
