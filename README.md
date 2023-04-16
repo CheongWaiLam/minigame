@@ -49,7 +49,7 @@ Usage of our software: **entertainment**
 
      We want two games in this software, then we want a home page to let the player use two buttons to choose these two games, finally we want a credit button in the homepage credit page to show our produce list.
 
-  5. **Character design and game scenarios**
+  5. **Character design**
 
      We use pixel style for character design, so that the whole process will not be too complicated, and the characters can be presented simply, making the whole game more casual.  
      
@@ -58,6 +58,13 @@ Usage of our software: **entertainment**
   6. **Game scenarios**
   
      For the game scene, we used simple colors, alternating warm and cool colors, and we used pink and purple to make the scene more comfortable. 
+     
+     ![Go back](https://raw.githubusercontent.com/Poole0/minigame/main/monkey.png) 
+     ![Dog](https://raw.githubusercontent.com/Poole0/minigame/main/dog.png) 
+     ![Chameleon](https://raw.githubusercontent.com/Poole0/minigame/main/chameleon.png)
+     
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Go back** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Dog** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Chameleon**
+     
      
      We use Javafx language to make these games and have tested and modified many times to ensure the stability and fluency of game. 
  
@@ -169,3 +176,15 @@ https://youtu.be/8R8uHFOMgDY
     - javafx.scene.layout.Pane; 
 
 ## Declartion
+  Concerning: 
+  Animals Party 
+  
+VU CHE FEI(Sam), IAM CHON KIT(Leon), KUAN WING YU(Kiki), CHEONG WAI LAM(Tommy) , the creators of the underlying material on which the video game is based. 
+  
+Declaration by Creator 
+
+We, VU CHE FEI(Sam), IAM CHON KIT(Leon), KUAN WING YU(Kiki), CHEONG WAI LAM(Tommy), are Chinese citizen. We are ordinarily resident in Macau. 
+ 
+We, VU CHE FEI(Sam), IAM CHON KIT(Leon), KUAN WING YU(Kiki), CHEONG WAI LAM(Tommy), created the original underlying material, a concept 2D game, titled “Animals Party”, 16/04/2023 created. 
+ 
+We declare that we have made inquiries as to the truth of the particulars set out in this Statement and that to the best of our knowledge and belief the said particulars are true and complete in all respects. We make this solemn declaration conscientiously believing it to be true.
