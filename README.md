@@ -97,10 +97,6 @@ https://youtu.be/8R8uHFOMgDY
  1. Language – Javafx  
  2. IDE – Eclipse 
  3. OS – Windows 10
-- ### Hardware Requirnment 
- 1. Processor – Intel(R) Core i3-5015U  
- 2. CPU RAM – 4 GB  
- 3. Hard disk – 1 TB 
 - ### Require package  (List by class) 
  1. Main 
     - javafx.application.Application; 
